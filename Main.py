@@ -7,7 +7,7 @@ shopping_list = {
 x = 0
 print()
 for shop, items in shopping_list.items():
-    print(f"idę do {shop.capitalize()} i kupuję {items}")
+    print(f"idę do {shop.capitalize()} i kupuję {items}" "\n")
     for items in shopping_list[shop]:
         x += 1
         
