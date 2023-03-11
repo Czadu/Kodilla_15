@@ -2,6 +2,7 @@ shopping_list = {
             "piekarnia" : ["Chleb", "Paczek", "Bulki"],
             "warzywniak" : ['Marchew', 'Seler', 'Rukola'],
             "biedronka" : ['Ser', 'Maslo']
+            "lidl" : ['szynka', 'jogurt']
 }
 
 x = 0
